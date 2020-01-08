@@ -34,3 +34,6 @@ ldconfig
 ```
 
 https://github.com/tesseract-ocr/tesseract/wiki/Data-Files#data-files-for-version-400-november-29-2016
+
+
+https://www.tekovic.com/installing-tesseract-ocr-40-on-centos-6
